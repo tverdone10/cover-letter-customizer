@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "docxtemplater": "^3.40.1",
     "mammoth": "^1.6.0"
   }
 }
