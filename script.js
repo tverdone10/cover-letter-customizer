@@ -4,8 +4,8 @@ const fs = require('fs');
 const inputFile = 'cover_letter_template.docx';
 const outputFile = 'output.doc';
 
-const companyName = 'Palms Elementary';
-const positionName = 'Second Grade Teacher';
+const companyName = 'Your company';
+const positionName = 'Your job position';
 
 mammoth.embedStyleMap
 mammoth.extractRawText({ path: inputFile })
